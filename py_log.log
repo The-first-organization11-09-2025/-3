@@ -1,0 +1,14 @@
+2025-10-19 17:05:46,287 INFO The bubble_sort start
+2025-10-19 17:05:46,345 INFO The bubble_sort finish 
+2025-10-19 17:05:46,346 INFO Number of iterations = 239284
+2025-10-19 17:05:46,351 INFO The selections_sort start
+2025-10-19 17:05:46,367 INFO The selections_sort finish
+2025-10-19 17:05:46,367 INFO Number of iterations = 4076
+2025-10-19 17:05:46,368 INFO The insertion_sort start
+2025-10-19 17:05:46,368 INFO The insertion_sort finish
+2025-10-19 17:05:46,370 INFO The heap_sort start
+2025-10-19 17:05:46,372 INFO The heap_sort finish
+2025-10-19 17:05:46,377 INFO The merge_sort start
+2025-10-19 17:05:46,377 INFO The merge_sort finish
+2025-10-19 17:05:46,379 INFO The quick_sort start
+2025-10-19 17:05:46,380 INFO The quick_sort finish
